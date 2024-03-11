@@ -1,2 +1,2 @@
 # sitemate_test_backend
-API based on PHP
+API based on Laravel
